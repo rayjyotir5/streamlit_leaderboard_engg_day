@@ -10,8 +10,6 @@ from urllib3.util.retry import Retry
 
 load_dotenv()
 
-API_TOKEN = 'tfp_A17xvd2NHQdM7YAtc8H5p3Zu5x7xdyMpzKZPBHCnyS7V_epBmPVfapHkE'#os.getenv('TYPEFORM_API_TOKEN')
-FORM_ID = 'K1A2k24R'#os.getenv('TYPEFORM_FORM_ID')
 
 BASE_URL = 'https://api.typeform.com'
 
